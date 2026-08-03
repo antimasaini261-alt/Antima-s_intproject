@@ -1,0 +1,16 @@
+/* ===================================
+   GitHub Profile Finder
+   Custom CSS
+=================================== */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    cursor: pointer;
+}
+
+img {
+    max-width: 100%;
+}
